@@ -2,7 +2,7 @@
 
 *A closer look at image optimization for quicker loading times.*
 
-I started off with taking a good look at the options and specs from Google's [PageSpped Insights] (https://developers.google.com/speed/pagespeed/insights/). After that I bounced around some twitter posts and medium articles on the subject.
+I started off with taking a good look at the options and specs from Google's [PageSpped Insights] (https://developers.google.com/speed/pagespeed/insights/ "PageSpeed Insights"). After that I bounced around some twitter posts and medium articles on the subject.
 
 __ImageOptim__ (free for Mac) was able to reduce the sample image file size by 74.9% – 557kb.
 ImageOptim is the free app that is great for lossless compression. All you have to do is drag a file/folder/group of images onto the interface and it’ll start compressing. The only downside is that ImageOptim overwrites your original file so you might want to save an extra copy before you start compressing.
