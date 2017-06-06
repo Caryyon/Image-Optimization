@@ -14,8 +14,15 @@ After all of that it seems there is no golden option for image optimization out 
 ![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/IMG_2237-1.jpg "7.4MB")
 #### 7.4MB
 
+## ImageOptim
 __ImageOptim__ (free for Mac) was able to reduce the sample image file size by 84.9% – 1.1MB.
 ImageOptim is the free app that is great for lossless compression. All you have to do is drag a file/folder/group of images onto the interface and it’ll start compressing. *The only downside is that ImageOptim overwrites your original file so you might want to save an extra copy before you start compressing.*
+
+#### __Test Image After__
+![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/IMG_2237-1-imageOptim.jpg "1.1MB")
+#### 1.1MB
+
+
 
 __Squash__ ($19.99 for Mac) was able to reduce the sample image file size by 54.5% – 1MB.
 Though Squash may seem a little bit pricey at $19.99, it does a lot especially if you are dealing with multiple file formats. For example, Squash can convert and compress PSD, TIFF, and RAW files where ImageOptim does not.
