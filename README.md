@@ -22,7 +22,8 @@ ImageOptim is the free app that is great for lossless compression. All you have 
 ![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/IMG_2237-1-imageOptim.jpg "1.1MB")
 #### 1.1MB
 
-
+#### __Side By Side__
+![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/ImageOptim%20-%207.2MB%20:%201.1MB.png "7.4MB - 1.1MB")
 
 __Squash__ ($19.99 for Mac) was able to reduce the sample image file size by 54.5% – 1MB.
 Though Squash may seem a little bit pricey at $19.99, it does a lot especially if you are dealing with multiple file formats. For example, Squash can convert and compress PSD, TIFF, and RAW files where ImageOptim does not.
