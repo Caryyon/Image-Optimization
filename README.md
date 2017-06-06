@@ -25,13 +25,11 @@ ImageOptim is the free app that is great for lossless compression. All you have 
 #### __Side By Side__
 ![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/ImageOptim%20-%207.2MB%20:%201.1MB.png "7.4MB - 1.1MB")
 
-__Squash__ ($19.99 for Mac) was able to reduce the sample image file size by 54.5% – 1MB.
-Though Squash may seem a little bit pricey at $19.99, it does a lot especially if you are dealing with multiple file formats. For example, Squash can convert and compress PSD, TIFF, and RAW files where ImageOptim does not.
+__Squash__ ($19.99 for Mac) I did __not__ purchase Squash out of the pure reason it cost something. Though Squash may seem a little bit pricey at $19.99, it does a lot especially if you are dealing with multiple file formats. For example, Squash can convert and compress PSD, TIFF, and RAW files where ImageOptim does not.
 
-__Compressor__ (free web tool) was able to reduce the sample image file size by 64% – 801kb.
+__Compressor.io__ (free web tool) was able to reduce the sample image file size by 81% – 1.35MB.
 If you don’t want to download any more apps to your computer, you can use Compressor.IO to compress your images. It works just as great as Squash/ImageOptim and can support JPEG, PNG, GIF, and SVG files. The only downsides are that it doesn’t allow batch uploads and files are limited to 10 MB.
-Caesium (free for Windows and web tool) was able to reduce the sample image file size by 60% – 885kb.
 
 *I didn’t forget about our Windows users __Leon__!*
 
-__Caesium__ is a simple tool that compresses JPG, BMP, and PNG files. While the interface may not be as appealing like the other apps listed above, it does its job pretty well and is my go-to recommendation for anyone in the Windows environment.
+__Caesium__ (free for Windows and web tool) was able to reduce the sample image file size by 60% – 885kb. Caesium is a simple tool that compresses JPG, BMP, and PNG files. While the interface may not be as appealing like the other apps listed above, it does its job pretty well and is my go-to recommendation for anyone in the Windows environment.
