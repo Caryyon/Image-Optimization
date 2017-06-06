@@ -12,7 +12,7 @@ After all of that it seems there is no golden option for image optimization out 
 
 __Test Image__
 ![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/IMG_2237-1.jpg "7.4MB")
-####7.4MB
+#### 7.4MB
 
 __ImageOptim__ (free for Mac) was able to reduce the sample image file size by 84.9% – 1.1MB.
 ImageOptim is the free app that is great for lossless compression. All you have to do is drag a file/folder/group of images onto the interface and it’ll start compressing. *The only downside is that ImageOptim overwrites your original file so you might want to save an extra copy before you start compressing.*
