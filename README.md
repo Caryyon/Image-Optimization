@@ -1,8 +1,10 @@
 # Image-Optimization
 
-*A closer look at image optimization for quicker loading times.*
+## What I Get For Speaking Up
+*A closer look at image optimization for quicker initial loading times.*
 
-I started off with taking a good look at the options and specs from Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/). After that I bounced around some twitter posts and medium articles on the subject.
+I started off with taking a good look at the options and specs from Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
+Then I read/watched a few things from I/O 17 on quicker page loading times. After that I bounced around some twitter posts and medium articles on the subject.
 
 ## Did Some Testing Bros!
 
