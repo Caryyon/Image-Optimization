@@ -1,6 +1,6 @@
 # Image-Optimization
 
-### What I Get For Speaking Up
+### Where Do You Start
 *A closer look at image optimization for quicker initial loading times.*
 
 I started off with taking a good look at the options and specs from Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
