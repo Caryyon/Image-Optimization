@@ -6,12 +6,16 @@
 I started off with taking a good look at the options and specs from Google's [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/). [Addy Osmani]()
 Then I read/watched a few things from Google I/O 17 on quicker loading times. After that I bounced around some twitter posts and medium articles on the subject.
 
-After all of that it seems there is no golden option for image optimization out there... Sorry!
+After all of that it seems there is no golden option for image optimization out there... Sorry! Don't worry though!!!
 
 ### Did Some Testing Bros!
 
-__ImageOptim__ (free for Mac) was able to reduce the sample image file size by 74.9% – 557kb.
-ImageOptim is the free app that is great for lossless compression. All you have to do is drag a file/folder/group of images onto the interface and it’ll start compressing. The only downside is that ImageOptim overwrites your original file so you might want to save an extra copy before you start compressing.
+__Test Image__
+![alt text](https://github.com/Caryyon/Image-Optimization/blob/master/Image%20Optimization%20Talk/ImageOptim/ImageOptim%20-%207.2MB%20:%201.1MB.png "7.4MB")
+7.4MB
+
+__ImageOptim__ (free for Mac) was able to reduce the sample image file size by 84.9% – 1.1MB.
+ImageOptim is the free app that is great for lossless compression. All you have to do is drag a file/folder/group of images onto the interface and it’ll start compressing. *The only downside is that ImageOptim overwrites your original file so you might want to save an extra copy before you start compressing.*
 
 __Squash__ ($19.99 for Mac) was able to reduce the sample image file size by 54.5% – 1MB.
 Though Squash may seem a little bit pricey at $19.99, it does a lot especially if you are dealing with multiple file formats. For example, Squash can convert and compress PSD, TIFF, and RAW files where ImageOptim does not.
